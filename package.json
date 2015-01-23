@@ -1,0 +1,12 @@
+{
+  "name": "ping_pong_clients",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "^0.9.0",
+    "coffee-script": "^1.8.0",
+    "debug": "^2.1.1",
+    "lodash": "^2.4.1",
+    "restify": "^2.8.4"
+  }
+}
